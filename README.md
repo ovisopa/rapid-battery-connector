@@ -10,3 +10,6 @@ You can download the full project 3D file (Fusion360), not just the 3D printed f
 
 https://a360.co/4f57ME3
 
+After 4 years of 24/7 usage, the connectors look like this:
+
+![connectors after 4 years of usage](https://github.com/user-attachments/assets/f9df540e-0a9a-4b16-b0d0-c7c25c51ea65)
