@@ -13,3 +13,15 @@ https://a360.co/4f57ME3
 After 4 years of 24/7 usage, the connectors look like this:
 
 ![connectors after 4 years of usage](https://github.com/user-attachments/assets/f9df540e-0a9a-4b16-b0d0-c7c25c51ea65)
+
+Asembly of the battery connector
+![Battery connector assembly](https://github.com/user-attachments/assets/85e921da-74c4-40b9-a095-558d4479f33f)
+
+Pre-charge circuit
+
+![Pre-charge circuit](https://github.com/user-attachments/assets/39fe7bea-d40f-430b-825d-fd7381fd4442)
+
+Hyundai Ioniq Lithium Battery reconfigured to 15S6P
+
+![hyundai Ioniq Lithium Battery Reconfigures to 15S 2](https://github.com/user-attachments/assets/2680028e-6868-4ce6-be36-6effe29958cc)
+
